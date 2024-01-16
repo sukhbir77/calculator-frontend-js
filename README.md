@@ -16,4 +16,4 @@ This project is a simple calculator application designed to handle basic arithme
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/Calculator.git
+   git clone https://github.com/sukhbir77/calculator-frontend-js.git
